@@ -1,0 +1,38 @@
+h1{
+    color:red;
+    font-family:cursive; 
+    background-color: springgreen;
+    font-size: 50px;
+}
+#para1{
+    text-align: center;
+    font-size: 25px;
+    color:sienna;
+}
+.para2{
+    text-align: center;
+    font-size: 23px;
+    color:crimson
+}
+hr{
+    background-color: black;
+}
+a{
+    font-size: 20px;
+    color:darkgoldenrod;
+}
+ol{
+    font-size: 18px;
+    color:darkgreen
+}
+th{
+    font-size: 20px;
+    color:darkred
+}
+td{
+    font-size: 18px;
+    color:darkviolet;
+}
+.VideoClip{
+    text-align: center;
+}
